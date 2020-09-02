@@ -7,3 +7,6 @@ In Quantopian-Python-Lectures
 
 ## LAB 2
 In PyData-Toolbox
+
+## LAB 3
+In Cognitive-Class-Certifications
