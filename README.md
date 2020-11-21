@@ -13,3 +13,9 @@ In Cognitive-Class-Certifications
 
 ## LAB 4
 In 21BlackjackGrClass1StGrooup10.ipynb
+
+## LAB 8 
+Pancakes with a problem, part of the first test. In Pancakes folder.
+
+## LAB 9
+Gale Shapley Algorithm - Stable Marriage, part of the first test. In GaleShapleyIrving folder.
