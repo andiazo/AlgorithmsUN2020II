@@ -15,8 +15,14 @@ In Cognitive-Class-Certifications
 In 21BlackjackGrClass1StGrooup10.ipynb
 
 ## LAB 5 
+PART 1: SymPyLab.ipynb
+PART 2: SymPyLab.sagews
+
 ## LAB 6 
-## LAB 7 
+QuadraticEquation.ipynb
+
+## LAB 7
+NewtonFractals.ipynb
 
 ## LAB 8 
 Pancakes with a problem, part of the first test. In Pancakes folder.
