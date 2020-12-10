@@ -31,4 +31,4 @@ Pancakes with a problem, part of the first test. In Pancakes folder.
 Gale Shapley Algorithm - Stable Marriage, part of the first test. In GaleShapleyIrving folder.
 
 ## LAB 10
-BubbleSortDistribution.ipynb
+BubbleSortDistribution.ipynb and FibonacciTime.ipynb
